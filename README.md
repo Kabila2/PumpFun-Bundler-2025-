@@ -20,4 +20,6 @@ Prerequisites :
 * .
 * Download node.js
 * .
-* type npm install in terminal 
+* type npm install in terminal
+
+for any inquiries/help or to upgrade to premium bot with GUI message me @trxpstar666 on discord.
